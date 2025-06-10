@@ -3,7 +3,6 @@
 - 🌱 I’m currently studying for CompTIA A+
 - 💞️ I’m looking to collaborate on Cybersecurity projects, homelab setups, and open-source security tools
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ivaylo-atanassov-072105176/) | Discord: @abditus0
-- 
 - ⚡ Fun fact: I enjoy learning new stuff, reading books, building secure home networks and exploring ethical hacking challenges in my spare time
 
 🛡️ Current Focus
