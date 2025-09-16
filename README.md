@@ -6,6 +6,7 @@
 - ⚡ Fun fact: I enjoy learning new stuff, reading books, building secure home networks and exploring ethical hacking challenges in my spare time
 
 🛡️ Current Focus
+PowerShell • Python • Virtualization | Building projects in automation & system administration
 Preparing for Network+ certification
 Learning network security fundamentals
 Exploring penetration testing tools and methodologies
