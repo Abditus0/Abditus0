@@ -24,7 +24,7 @@
 
 • Planning to pursue the complete CompTIA trifecta and beyond:
 
-• CompTIA A+ (Completed)
+• CompTIA A+ (Completed) ![CompTIA A+](https://img.shields.io/badge/CompTIA%20A+-Certified-brightgreen)
 
 • CompTIA Network+ (Currently Studying)
 
