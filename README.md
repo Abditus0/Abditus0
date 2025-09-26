@@ -2,9 +2,18 @@
 
 ### - 👋 Hi, I’m Ivaylo Atanassov (Also known as John)
 ### - 👀 I’m interested in all aspects of IT and eager to keep learning
-### - 🌱 I’m currently studying for CompTIA Network+
+### - 🌱 I’ve completed **CompTIA A+** and am currently studying for **CompTIA Network+** 
 ### - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ivaylo-atanassov-072105176/) | Discord: @abditus0 | Email: hustle022@yahoo.com
 
+# 🛠️ Projects  
+- [PowerShell Backup Script](https://github.com/Abditus0/PowerShell-Backup-Script)
+    - Automates backing up files with folder structure preservation, timestamped destinations, duplicate handling, and logging.
+- [Active Directory Password Reset Script](https://github.com/Abditus0/PowerShell-Password-Reset-Script)
+    - PowerShell script for batch resetting Active Directory passwords with safety checks, logging, and enforcing password change at next login.
+- [System Health Check Script](https://github.com/Abditus0/System-Health-Check-Script)
+   - Python script that generates a color-coded system health report with CPU, memory, disk, network, and Windows service monitoring, plus automatic logging.
+
+- [Windows AD Lab](https://github.com/Abditus0/Windows-AD-Lab) (In progress)
 
 # 🛡️ Current Focus
 
