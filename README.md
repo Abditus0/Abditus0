@@ -6,14 +6,14 @@
 ### - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ivaylo-atanassov-072105176/) | Discord: @abditus0 | Email: hustle022@yahoo.com
 
 # 🛠️ Projects  
-- [PowerShell Backup Script](https://github.com/Abditus0/PowerShell-Backup-Script)
-    - Automates backing up files with folder structure preservation, timestamped destinations, duplicate handling, and logging.
+- [Windows Domain Infrastructure Lab](https://github.com/Abditus0/Windows-AD-Lab)
+    - End-to-end enterprise Windows domain implementation with Active Directory, DNS, DHCP, Group Policy, and file/print services.    
+- [Backup Script](https://github.com/Abditus0/PowerShell-Backup-Script)    
+    - PowerShell script that automates file backups with folder structure preservation, timestamped destinations, duplicate handling, and detailed logging.
 - [Active Directory Password Reset Script](https://github.com/Abditus0/PowerShell-Password-Reset-Script)
     - PowerShell script for batch resetting Active Directory passwords with safety checks, logging, and enforcing password change at next login.
 - [System Health Check Script](https://github.com/Abditus0/System-Health-Check-Script)
    - Python script that generates a color-coded system health report with CPU, memory, disk, network, and Windows service monitoring, plus automatic logging.
-
-- [Windows AD Lab](https://github.com/Abditus0/Windows-AD-Lab) (In progress)
 
 # 🛡️ Current Focus
 
