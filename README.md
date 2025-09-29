@@ -3,35 +3,42 @@
 #### - 👋 Hi, I’m Ivaylo Atanassov (Also known as John)
 #### - 👀 I’m interested in all aspects of IT and eager to keep learning
 #### - 🌱 I’ve completed **CompTIA A+** and am currently studying for **CompTIA Network+** 
-#### - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ivaylo-atanassov-072105176/) | Discord: @abditus0 | Email: hustle022@yahoo.com
+#### - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/ivaylo-atanassov-072105176/) | Discord: @abditus0 | Email: hustle022@yahoo.com
 
 ---
 
 # 🛠️ Projects  
 - [**Windows Domain Infrastructure Lab**](https://github.com/Abditus0/Windows-AD-Lab)
-    - End-to-end enterprise Windows domain implementation with **Active Directory**, **DNS**, **DHCP**, **Group Policy**, and **file/print services**.    
+    - End-to-end enterprise Windows domain implementation with **Active Directory**, **DNS**, **DHCP**, **Group Policy**, and **file/print services**.
+       
 - [Backup Script](https://github.com/Abditus0/PowerShell-Backup-Script)    
-    - PowerShell script that automates file backups with **folder structure preservation**, **timestamped destinations**, **duplicate handling**, and **detailed logging**.    
+    - PowerShell script that automates file backups with **folder structure preservation**, **timestamped destinations**, **duplicate handling**, and **detailed logging**.
+      
 - [Active Directory Password Reset Script](https://github.com/Abditus0/PowerShell-Password-Reset-Script)
-    - PowerShell script for **batch resetting Active Directory passwords** with **safety checks**, **logging**, and **enforcing password change** at next login.  
+    - PowerShell script for **batch resetting Active Directory passwords** with **safety checks**, **logging**, and **enforcing password change** at next login.
+      
 - [System Health Check Script](https://github.com/Abditus0/System-Health-Check-Script)
-   - Python script that generates a **color-coded system health report** with **CPU**, **memory**, **disk**, **network**, and **Windows service monitoring**, plus **automatic logging**.    
+   - Python script that generates a **color-coded system health report** with **CPU**, **memory**, **disk**, **network**, and **Windows service monitoring**, plus **automatic logging**.
+     
 
 ---
 
 # 🛡️ Current Focus
 
-  • Active Directory • Windows Server • PowerShell • Python • Bash
+- Active Directory & Windows Server
   
-  • Building projects in automation & system administration
+- PowerShell, Python & Bash
   
-  • Network administration and troubleshooting
+- Building automation & system administration projects
   
-  • Software troubleshooting
+- Network administration & troubleshooting    
   
-  • Virtualization and lab environments
+- Software troubleshooting
   
-  • Linux/Windows system administration
+- Virtualization & lab environments
+  
+- Linux / Windows system administration
+  
 
 ---
 
