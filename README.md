@@ -20,7 +20,7 @@
 - [System Health Check Script](https://github.com/Abditus0/System-Health-Check-Script)
    - Python script that generates a **color-coded system health report** with **CPU**, **memory**, **disk**, **network**, and **Windows service monitoring**, plus **automatic logging**.
 
-- [VMware to Hyper-V VM Migration Guide](https://github.com/Abditus0/VMware-to-Hyper-V-VM-Migration-Guide)    
+- [VMware to Hyper-V VM Migration Guide](https://github.com/Abditus0/VMware-to-Hyper-V-VM-Migration)    
   - Migrated a VMware VM to Microsoft Hyper-V by converting VMDK to VHDX using StarWind. Includes full guide, screenshots, and troubleshooting steps.
 
 ---
