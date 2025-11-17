@@ -8,6 +8,9 @@
 ---
 
 # 🛠️ Projects  
+- [**Enterprise VLAN Network Segmentation Lab with pfSense**](https://github.com/Abditus0/pfSense-VLAN-Network-DMZ-Web-Server-Lab)
+    - Complete enterprise-style network segmentation lab using **pfSense**, **VLANs**, and a **hardened DMZ web server** with **inter-VLAN routing**, **least-privilege firewall rules**, **guest network isolation**, and **SSH hardening** on Ubuntu/Nginx.
+
 - [**Windows Domain Infrastructure Lab**](https://github.com/Abditus0/Windows-AD-Lab)
     - End-to-end enterprise Windows domain implementation with **Active Directory**, **DNS**, **DHCP**, **Group Policy**, and **file/print services**.
        
