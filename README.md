@@ -59,7 +59,6 @@ Planning to pursue the **CompTIA Trifecta** and beyond:
 - Exploring advanced certifications like **CISSP**, **CEH**, and **cloud security** certs
   
 
-
 <!---
 Abditus0/Abditus0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
