@@ -7,7 +7,7 @@
 
 ---
 
-# 🛠️ Projects  
+# 🛠️ Projects (7)      
 - [Google Workspace Environment](https://github.com/Abditus0/Google-Workspace-Environment-From-Scratch)
     - Complete Google Workspace from scratch, including a new domain, DNS records (MX/SPF/DKIM/DMARC, etc.), secure authentication, and email migration from Microsoft 365.
 
