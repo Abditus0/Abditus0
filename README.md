@@ -8,6 +8,9 @@
 ---
 
 # 🛠️ Projects  
+- [Google Workspace Environment](https://github.com/Abditus0/Google-Workspace-Environment-From-Scratch)
+    - Complete Google Workspace from scratch, including a new domain, DNS records (MX/SPF/DKIM/DMARC, etc.), secure authentication, and email migration from Microsoft 365.
+
 - [**Enterprise VLAN Network Segmentation Lab with pfSense**](https://github.com/Abditus0/pfSense-VLAN-Network-DMZ-Web-Server-Lab)
     - Complete enterprise-style network segmentation lab using **pfSense**, **VLANs**, and a **hardened DMZ web server** with **inter-VLAN routing**, **least-privilege firewall rules**, **guest network isolation**, and **SSH hardening** on Ubuntu/Nginx.
 
