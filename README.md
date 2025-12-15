@@ -8,7 +8,7 @@
 ---
 
 # 🛠️ Projects (7)      
-- [Google Workspace Environment](https://github.com/Abditus0/Google-Workspace-Environment-From-Scratch)
+- [**Google Workspace Environment**](https://github.com/Abditus0/Google-Workspace-Environment-From-Scratch)
     - Complete Google Workspace from scratch, including a new domain, DNS records (MX/SPF/DKIM/DMARC, etc.), secure authentication, and email migration from Microsoft 365.
 
 - [**Enterprise VLAN Network Segmentation Lab with pfSense**](https://github.com/Abditus0/pfSense-VLAN-Network-DMZ-Web-Server-Lab)
@@ -17,16 +17,16 @@
 - [**Windows Domain Infrastructure Lab**](https://github.com/Abditus0/Windows-AD-Lab)
     - End-to-end enterprise Windows domain implementation with **Active Directory**, **DNS**, **DHCP**, **Group Policy**, and **file/print services**.
        
-- [Backup Script](https://github.com/Abditus0/PowerShell-Backup-Script)    
+- [**Backup Script**](https://github.com/Abditus0/PowerShell-Backup-Script)    
     - PowerShell script that automates file backups with **folder structure preservation**, **timestamped destinations**, **duplicate handling**, and **detailed logging**.
       
-- [Active Directory Password Reset Script](https://github.com/Abditus0/PowerShell-Password-Reset-Script)
+- [**Active Directory Password Reset Script**](https://github.com/Abditus0/PowerShell-Password-Reset-Script)
     - PowerShell script for **batch resetting Active Directory passwords** with **safety checks**, **logging**, and **enforcing password change** at next login.
       
-- [System Health Check Script](https://github.com/Abditus0/System-Health-Check-Script)
+- [**System Health Check Script**](https://github.com/Abditus0/System-Health-Check-Script)
    - Python script that generates a **color-coded system health report** with **CPU**, **memory**, **disk**, **network**, and **Windows service monitoring**, plus **automatic logging**.
 
-- [VMware to Hyper-V VM Migration](https://github.com/Abditus0/VMware-to-Hyper-V-VM-Migration)    
+- [**VMware to Hyper-V VM Migration**](https://github.com/Abditus0/VMware-to-Hyper-V-VM-Migration)    
   - Migrated a VMware VM to Microsoft Hyper-V by converting VMDK to VHDX using StarWind. Includes full guide, screenshots, and troubleshooting steps.
 
 ---
