@@ -3,7 +3,7 @@
 #### - 👋 Hi, I’m Ivaylo Atanassov (Also known as John)
 #### - 👀 I’m interested in all aspects of IT and eager to keep learning
 #### - 🌱 I’ve completed **CompTIA A+** and am currently studying for **CompTIA Network+** 
-#### - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/ivaylo-atanassov-072105176/) | Discord: @abditus0 | Email: hustle022@yahoo.com
+#### - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/ivaylo-atanassov-072105176/) 
 
 ---
 
