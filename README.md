@@ -1,7 +1,7 @@
 # 📘 Quick Intro
 
 #### - 👋 Hi, I’m Ivaylo Atanassov (Also known as John)
-#### - 👀 I’m interested in all aspects of IT and eager to keep learning
+#### - 👀 I’m interested in all aspects of IT and I love learning new technologies
 #### - 🌱 I’ve completed **CompTIA A+** and am currently studying for **CompTIA Network+** 
 #### - 📫 Reach me on: [LinkedIn](https://www.linkedin.com/in/ivaylo-atanassov-072105176/) 
 
