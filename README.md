@@ -53,11 +53,10 @@
 # 🎯 Future Certification Goals
 Planning to pursue the **CompTIA Trifecta** and beyond:    
 
-- **CompTIA A+** (Completed) ![CompTIA A+](https://img.shields.io/badge/CompTIA%20A+-Certified-brightgreen)
-  
--  **CompTIA Network+** (Currently Studying)
+- [**CompTIA A+** (Completed)](https://www.credly.com/badges/73b27f3f-2d47-4953-9d3c-069565253f2d)
+-  [**CompTIA Network+** (Completed)](https://www.credly.com/badges/2c197ffd-7b85-49e7-b565-2bcc4cd3ba1b)
     
-- **CompTIA Security+** (Following Network+)
+- **CompTIA Security+** (Currectly studying)
    
-- Exploring advanced certifications like **CISSP**, **CEH**, and **cloud security** certs
+- Exploring advanced certifications like **OSCP**, **CEH**, and **cloud security** certs
   
