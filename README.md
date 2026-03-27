@@ -58,5 +58,5 @@ Planning to pursue the **CompTIA Trifecta** and beyond:
     
 - **CompTIA Security+** (Currectly studying)
    
-- Exploring advanced certifications like **OSCP**, **CEH**, and **cloud security** certs
+- Also exploring certifications like **eJPT**, **OSCP**, and **cloud security**
   
