@@ -1,4 +1,4 @@
-# 📘 Quick Intro
+# Quick Intro
 
 #### -  Hi, I’m Ivaylo Atanassov (Also known as John)
 #### -  I’m interested in all aspects of IT and I love learning new technologies
@@ -7,7 +7,7 @@
 
 ---
 
-# 🛠️ Projects (7)      
+# Projects (7)      
 - [**Google Workspace Environment**](https://github.com/Abditus0/Google-Workspace-Environment-From-Scratch)
     - Complete Google Workspace from scratch, including a new domain, DNS records (MX/SPF/DKIM/DMARC, etc.), secure authentication, and email migration from Microsoft 365.
 
@@ -31,7 +31,7 @@
 
 ---
 
-# 🛡️ Current Focus
+# Current Focus
 
 - Active Directory & Windows Server
   
@@ -50,7 +50,7 @@
 
 ---
 
-# 🎯 Future Certification Goals
+# Future Certification Goals
 Planning to pursue the **CompTIA Trifecta** and beyond:    
 
 - [**CompTIA A+** (Completed)](https://www.credly.com/badges/73b27f3f-2d47-4953-9d3c-069565253f2d)
