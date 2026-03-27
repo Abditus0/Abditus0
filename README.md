@@ -33,6 +33,8 @@
 
 # Current Focus
 
+- Cybersecurity
+
 - Active Directory & Windows Server
   
 - PowerShell, Python & Bash
