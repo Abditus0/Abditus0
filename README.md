@@ -1,7 +1,7 @@
 # Quick Intro
 
 #### -  Hi, I’m Ivaylo Atanassov (also known as John)
-#### -  I’m interested in all aspects of IT and I love learning new technologies
+#### -  I’m interested in Cybersecurity and I love learning new technologies
 #### -  I’ve completed **CompTIA A+, Network+**, and am currently studying for **CompTIA Security+** 
 #### -  Reach me on: [LinkedIn](https://www.linkedin.com/in/ivaylo-atanassov-072105176/) 
 
