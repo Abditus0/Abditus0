@@ -7,7 +7,10 @@
 
 ---
 
-# Projects (7)      
+# Projects (8)      
+- [**SOC Simulator (Home Lab)**](https://github.com/Abditus0/SOC-Simulation)
+    - Full SOC analyst training simulator built on a home lab. Runs real attacks on a Windows 11 V* through PowerShell Remoting, alerts feed into*Wazuh SIEM with Sysmon telemetry, and an analyst (me) investigates and writes incident reports. Includes 250 attack scenarios mapped to*MITRE ATT&CK, 6 false alarm bundles (will add more) that mimic real benign activity, and*AI-graded reports scored on technique identification, timeline accuracy, severity, and recommendations.
+
 - [**Google Workspace Environment**](https://github.com/Abditus0/Google-Workspace-Environment-From-Scratch)
     - Complete Google Workspace from scratch, including a new domain, DNS records (MX/SPF/DKIM/DMARC, etc.), secure authentication, and email migration from Microsoft 365.
 
@@ -56,7 +59,7 @@
 Planning to pursue the **CompTIA Trifecta** and beyond:    
 
 - [**CompTIA A+** (Completed)](https://www.credly.com/badges/73b27f3f-2d47-4953-9d3c-069565253f2d)
--  [**CompTIA Network+** (Completed)](https://www.credly.com/badges/2c197ffd-7b85-49e7-b565-2bcc4cd3ba1b)
+- [**CompTIA Network+** (Completed)](https://www.credly.com/badges/2c197ffd-7b85-49e7-b565-2bcc4cd3ba1b)
     
 - **CompTIA Security+** (Currectly studying)
    
