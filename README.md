@@ -12,7 +12,7 @@
     - Full SOC analyst training simulator built on a home lab. Runs real attacks on a Windows 11 VM through PowerShell Remoting, alerts feed into Wazuh SIEM with Sysmon telemetry, and an analyst (me) investigates and writes incident reports. Includes 250 attack scenarios mapped to MITRE ATT&CK, 6 false alarm bundles (will add more) that mimic real benign activity, and AI-graded reports scored on technique identification, timeline accuracy, severity, and recommendations.
 
 - [**Google Workspace Environment**](https://github.com/Abditus0/Google-Workspace-Environment-From-Scratch)
-    - Complete Google Workspace from scratch, including a new domain, DNS records (MX/SPF/DKIM/DMARC, etc.), secure authentication, and email migration from Microsoft 365.
+    - Complete Google Workspace setup, including a new domain, DNS records (MX/SPF/DKIM/DMARC, etc.), secure authentication, and email migration from Microsoft 365.
 
 - [**Enterprise VLAN Network Segmentation Lab with pfSense**](https://github.com/Abditus0/pfSense-VLAN-Network-DMZ-Web-Server-Lab)
     - Complete enterprise-style network segmentation lab using **pfSense**, **VLANs**, and a **hardened DMZ web server** with **inter-VLAN routing**, **least-privilege firewall rules**, **guest network isolation**, and **SSH hardening** on Ubuntu/Nginx.
