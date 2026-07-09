@@ -9,7 +9,7 @@
 ---
 
 # Vulnerability Disclosures
--  [**CVE-2026-11359**](https://www.cve.org/CVERecord?id=CVE-2026-11359)
+-  [**CVE-2026-11359**](https://www.cve.org/CVERecord?id=CVE-2026-11359) (CVSS 4.3, Medium)
     - Missing authorization in the Memberships and User Profiles for WooCommerce WordPress plugin (≤ 3.4), allowing low-privilege users to install and activate plugins. Found and disclosed via Wordfence. [Wordfence advisory](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/ecommerce-user-profiles-by-profilegrid/memberships-and-user-profiles-for-woocommerce-34-missing-authorization-to-authenticated-subscriber-profilegrid-plugin-installation-and-activation)    
 ---
 
