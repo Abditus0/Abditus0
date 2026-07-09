@@ -61,7 +61,7 @@ Planning to pursue the **CompTIA Trifecta** and beyond:
 - [**CompTIA A+** (Completed)](https://www.credly.com/badges/73b27f3f-2d47-4953-9d3c-069565253f2d)
 - [**CompTIA Network+** (Completed)](https://www.credly.com/badges/2c197ffd-7b85-49e7-b565-2bcc4cd3ba1b)
     
-- **CompTIA Security+** (Currectly studying)
+- **CompTIA Security+** (Currently studying)
    
 - Also exploring certifications like **eJPT**, **OSCP**, and **cloud security**
   
