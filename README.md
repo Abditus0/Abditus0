@@ -3,8 +3,14 @@
 #### -  Hi, I’m Ivaylo Atanassov (also known as John)
 #### -  I’m interested in Cybersecurity and I love learning new technologies
 #### -  I’ve completed **CompTIA A+, Network+**, and currently studying for **CompTIA Security+**
+#### -  I discovered and disclosed my first CVE (CVE-2026-11359) — a missing authorization vulnerability in a WordPress plugin    
 #### -  Reach me on: [LinkedIn](https://www.linkedin.com/in/ivaylo-atanassov-072105176/) 
 
+---
+
+# Vulnerability Disclosures
+-  **CVE-2026-11359** — Missing authorization in the Memberships and User Profiles for WooCommerce WordPress plugin (≤ 3.4), allowing low-privilege users to install and activate plugins. Found and disclosed via Wordfence. [Wordfence advisory](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/ecommerce-user-profiles-by-profilegrid/memberships-and-user-profiles-for-woocommerce-34-missing-authorization-to-authenticated-subscriber-profilegrid-plugin-installation-and-activation)
+-  
 ---
 
 # Projects (8)      
