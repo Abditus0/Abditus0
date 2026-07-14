@@ -3,7 +3,7 @@
 #### -  Hi, I’m Ivaylo Atanassov (also known as John)
 #### -  I’m interested in Cybersecurity and I love learning new technologies
 #### -  I’ve completed **CompTIA A+, Network+**, and currently studying for **CompTIA Security+**
-#### -  I discovered and disclosed my first CVE (CVE-2026-11359) — a missing authorization vulnerability in a WordPress plugin    
+#### -  I discovered and disclosed CVE-2026-11359. A missing authorization vulnerability in a WordPress plugin    
 #### -  Reach me on: [LinkedIn](https://www.linkedin.com/in/ivaylo-atanassov-072105176/) 
 
 ---
