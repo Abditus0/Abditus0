@@ -9,10 +9,10 @@
 
 # CVEs
 -  [**CVE-2026-11359**](https://www.cve.org/CVERecord?id=CVE-2026-11359) (CVSS 4.3, Medium)
-    - Missing authorization in a WordPress plugin, allowing low-privilege users to install and activate another plugin. Found and disclosed via Wordfence. [Wordfence advisory](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/ecommerce-user-profiles-by-profilegrid/memberships-and-user-profiles-for-woocommerce-34-missing-authorization-to-authenticated-subscriber-profilegrid-plugin-installation-and-activation)
+    - Missing authorization in a WordPress plugin, allowing low-privilege users to install and activate another plugin. Found and disclosed via Wordfence.  [Wordfence advisory](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/ecommerce-user-profiles-by-profilegrid/memberships-and-user-profiles-for-woocommerce-34-missing-authorization-to-authenticated-subscriber-profilegrid-plugin-installation-and-activation)
  
-
-
+-  [**CVE-2026-16145**](https://www.cve.org/CVERecord?id=CVE-2026-16145) (CVSS 7.2, High)
+    - Unauthenticated stored XSS in a WordPress anti-spam plugin, allowing anyone to inject a script that is saved to the site and runs for every visitor, including admins. [Wordfence advisory](https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/gdpr-compliant-recaptcha-for-all-forms/invisible-anti-spam-captcha-51-unauthenticated-stored-cross-site-scripting-via-action-parameter)
 ---
 
 # Projects (8)      
