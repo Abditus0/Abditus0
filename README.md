@@ -8,14 +8,21 @@
 ---
 
 # CVEs
--  [**CVE-2026-16145**](https://www.cve.org/CVERecord?id=CVE-2026-16145) (CVSS 7.2, High)
+
+- [**CVE-2026-81286**](https://www.cve.org/CVERecord?id=CVE-2026-81286) (CVSS 9.3, Critical)
+    - Unauthenticated SQL Injection lets attackers to read private data straight out of the database, including password hashes.  [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-81286)
+
+- [**CVE-2026-16145**](https://www.cve.org/CVERecord?id=CVE-2026-16145) (CVSS 7.2, High)
     - Unauthenticated stored XSS in a WordPress anti-spam plugin, allowing anyone to inject a script that is saved to the site and runs for every visitor, including admins.  [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-16145)
+ 
+-  - [**CVE-2026-81288**](https://www.cve.org/CVERecord?id=CVE-2026-81288) (CVSS 7.1, High)
+    - Unauthenticated Stored Cross-Site Scripting (XSS) that let any logged-out visitor leave a comment with a script hidden inside and have it stored on the site.  [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-81288)
 
  - [**CVE-2026-28003**](https://www.cve.org/CVERecord?id=CVE-2026-28003) (CVSS 7.1, High)
     - Unauthenticated Stored Cross-Site Scripting (XSS) vulnerability in a WordPress spam-protection plugin saved comment submissions to its logs without properly cleaning them, so anyone could leave a comment with a script hidden inside and have it stored on the site.  [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-28003)
 
 -  [**CVE-2026-11359**](https://www.cve.org/CVERecord?id=CVE-2026-11359) (CVSS 4.3, Medium)
-    - Missing authorization in a WordPress plugin, allowing low-privilege users to install and activate another plugin. Found and disclosed via Wordfence.  [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-11359)
+    - Missing authorization in a WordPress plugin, allowing low-privilege users to install and activate another plugin.  [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-11359)
 
 ---
 
