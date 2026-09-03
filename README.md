@@ -49,10 +49,8 @@
 # Current Focus
 
 - Cybersecurity
-
-- Active Directory & Windows Server
   
-- PowerShell, Python & Bash
+- Coding languages
   
 - Building automation & system administration projects
   
