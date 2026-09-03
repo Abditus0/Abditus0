@@ -15,7 +15,7 @@
 - [**CVE-2026-16145**](https://www.cve.org/CVERecord?id=CVE-2026-16145) (CVSS 7.2, High)
     - Unauthenticated stored XSS in a WordPress anti-spam plugin, allowing anyone to inject a script that is saved to the site and runs for every visitor, including admins.  [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-16145)
  
--  - [**CVE-2026-81288**](https://www.cve.org/CVERecord?id=CVE-2026-81288) (CVSS 7.1, High)
+- [**CVE-2026-81288**](https://www.cve.org/CVERecord?id=CVE-2026-81288) (CVSS 7.1, High)
     - Unauthenticated Stored Cross-Site Scripting (XSS) that let any logged-out visitor leave a comment with a script hidden inside and have it stored on the site.  [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-81288)
 
  - [**CVE-2026-28003**](https://www.cve.org/CVERecord?id=CVE-2026-28003) (CVSS 7.1, High)
