@@ -9,22 +9,22 @@
 
 # CVEs
 
-- [**CVE-2026-81286**](https://www.cve.org/CVERecord?id=CVE-2026-81286) (CVSS 9.3, Critical)
+- [**CVE-2026-81286**](https://www.cve.org/CVERecord?id=CVE-2026-81286) ![](https://img.shields.io/badge/CVSS_9.3-Critical-red)
     - Unauthenticated SQL Injection lets attackers to read private data straight out of the database, including password hashes.  [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-81286)
 
-- [**CVE-2026-83593**](https://www.cve.org/CVERecord?id=CVE-2026-83593) (CVSS 7.2, High)
+- [**CVE-2026-83593**](https://www.cve.org/CVERecord?id=CVE-2026-83593) ![](https://img.shields.io/badge/CVSS_7.2-High-orange)
     - Unauthenticated stored XSS in a WordPress AI chatbot plugin, allowing anyone to save a chat message, cleaned the text in the wrong order so an encoded script payload slipped through, and stored it to run later when the chat session is viewed.  [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-83593)
 
-- [**CVE-2026-16145**](https://www.cve.org/CVERecord?id=CVE-2026-16145) (CVSS 7.2, High)
+- [**CVE-2026-16145**](https://www.cve.org/CVERecord?id=CVE-2026-16145) ![](https://img.shields.io/badge/CVSS_7.2-High-orange)
     - Unauthenticated stored XSS in a WordPress anti-spam plugin, allowing anyone to inject a script that is saved to the site and runs for every visitor, including admins.  [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-16145)
  
-- [**CVE-2026-81288**](https://www.cve.org/CVERecord?id=CVE-2026-81288) (CVSS 7.1, High)
+- [**CVE-2026-81288**](https://www.cve.org/CVERecord?id=CVE-2026-81288) ![](https://img.shields.io/badge/CVSS_7.1-High-orange)
     - Unauthenticated Stored Cross-Site Scripting (XSS) that let any logged-out visitor leave a comment with a script hidden inside and have it stored on the site.  [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-81288)
 
- - [**CVE-2026-28003**](https://www.cve.org/CVERecord?id=CVE-2026-28003) (CVSS 7.1, High)
+ - [**CVE-2026-28003**](https://www.cve.org/CVERecord?id=CVE-2026-28003) ![](https://img.shields.io/badge/CVSS_7.1-High-orange)
     - Unauthenticated Stored Cross-Site Scripting (XSS) vulnerability in a WordPress spam-protection plugin saved comment submissions to its logs without properly cleaning them, so anyone could leave a comment with a script hidden inside and have it stored on the site.  [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-28003)
 
--  [**CVE-2026-11359**](https://www.cve.org/CVERecord?id=CVE-2026-11359) (CVSS 4.3, Medium)
+-  [**CVE-2026-11359**](https://www.cve.org/CVERecord?id=CVE-2026-11359) ![](https://img.shields.io/badge/CVSS_4.3-Medium-yellow)
     - Missing authorization in a WordPress plugin, allowing low-privilege users to install and activate another plugin.  [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-11359)
 
 ---
