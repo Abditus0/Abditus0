@@ -9,7 +9,7 @@
 
 # CVEs
 
-- [**CVE-2026-81286**](https://www.cve.org/CVERecord?id=CVE-2026-81286) ![](https://img.shields.io/badge/CVSS_9.3-Critical-red)
+- [**CVE-2026-81286**](https://www.cve.org/CVERecord?id=CVE-2026-81286) ![](https://img.shields.io/badge/CVSS_9.3-Critical-red) 
     - Unauthenticated SQL Injection lets attackers to read private data straight out of the database, including password hashes.  [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-81286)
 
 - [**CVE-2026-83593**](https://www.cve.org/CVERecord?id=CVE-2026-83593) ![](https://img.shields.io/badge/CVSS_7.2-High-orange)
