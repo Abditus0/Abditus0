@@ -12,6 +12,9 @@
 - [**CVE-2026-81286**](https://www.cve.org/CVERecord?id=CVE-2026-81286) (CVSS 9.3, Critical)
     - Unauthenticated SQL Injection lets attackers to read private data straight out of the database, including password hashes.  [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-81286)
 
+- [**CVE-2026-83593**](https://www.cve.org/CVERecord?id=CVE-2026-83593) (CVSS 7.2, High)
+    - Unauthenticated stored XSS in a WordPress AI chatbot plugin, allowing anyone to save a chat message, cleaned the text in the wrong order so an encoded script payload slipped through, and stored it to run later when the chat session is viewed.  [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-83593)
+
 - [**CVE-2026-16145**](https://www.cve.org/CVERecord?id=CVE-2026-16145) (CVSS 7.2, High)
     - Unauthenticated stored XSS in a WordPress anti-spam plugin, allowing anyone to inject a script that is saved to the site and runs for every visitor, including admins.  [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-16145)
  
