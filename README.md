@@ -24,6 +24,9 @@
  - [**CVE-2026-28003**](https://www.cve.org/CVERecord?id=CVE-2026-28003) ![](https://img.shields.io/badge/High-CVSS_7.1-grey?labelColor=ff7a1a&style=for-the-badge)
     - Unauthenticated Stored Cross-Site Scripting (XSS) vulnerability in a WordPress spam-protection plugin saved comment submissions to its logs without properly cleaning them, so anyone could leave a comment with a script hidden inside and have it stored on the site.  [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-28003)
 
+ - [**CVE-2026-84819**](https://www.cve.org/CVERecord?id=CVE-2026-84819) ![](https://img.shields.io/badge/High-CVSS_7.1-grey?labelColor=ff7a1a&style=for-the-badge)
+    - Unauthenticated Reflected XSS in a WordPress classifieds plugin, where its page blocks read their settings from the request with no permission check and printed them unescaped, letting any logged-out visitor inject a script that runs on the site.  [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-84819)
+
 -  [**CVE-2026-11359**](https://www.cve.org/CVERecord?id=CVE-2026-11359) ![](https://img.shields.io/badge/Medium-CVSS_4.3-grey?labelColor=ffc531&style=for-the-badge)
     - Missing authorization in a WordPress plugin, allowing low-privilege users to install and activate another plugin.  [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-11359)
 
