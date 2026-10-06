@@ -11,6 +11,8 @@
 
 - [**CVE-2026-81286**](https://www.cve.org/CVERecord?id=CVE-2026-81286) (CVSS 9.3, Critical): Unauthenticated SQL injection. [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-81286)
 
+- [**CVE-2026-81286**](https://www.cve.org/CVERecord?id=CVE-2026-101923) (CVSS 8.1, High): Unauthenticated Arbitrary Post Deletion. [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-101923)
+
 - [**CVE-2026-93778**](https://www.cve.org/CVERecord?id=CVE-2026-93778) (CVSS 7.2, High): Unauthenticated stored XSS. [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-93778)
 
 - [**CVE-2026-16145**](https://www.cve.org/CVERecord?id=CVE-2026-16145) (CVSS 7.2, High): Unauthenticated stored XSS. [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-16145)
