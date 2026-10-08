@@ -41,7 +41,7 @@
 
 # Projects (8)      
 - [**SOC Simulator (Home Lab)**](https://github.com/Abditus0/SOC-Simulation)
-    - Full SOC analyst training simulator built on a home lab. Runs real attacks on a Windows 11 VM through PowerShell Remoting, alerts feed into Wazuh SIEM with Sysmon telemetry, and an analyst (me) investigates and writes incident reports. Includes 250 attack scenarios mapped to MITRE ATT&CK, 6 false alarm bundles (will add more) that mimic real benign activity, and AI-graded reports scored on technique identification, timeline accuracy, severity, and recommendations.
+    - Full SOC analyst training simulator built on a home lab. Runs real attacks on a Windows 11 VM through PowerShell Remoting, alerts feed into Wazuh SIEM with Sysmon, and an analyst (me) investigates and writes incident reports. Includes 250 attack scenarios mapped to MITRE ATT&CK, 6 false alarm bundles (will add more) that mimic real benign activity, and AI-graded reports scored on technique identification, timeline accuracy, severity, and recommendations.
 
 - [**Google Workspace Environment**](https://github.com/Abditus0/Google-Workspace-Environment-From-Scratch)
     - Complete Google Workspace setup, including a new domain, DNS records (MX/SPF/DKIM/DMARC, etc.), secure authentication, and email migration from Microsoft 365.
