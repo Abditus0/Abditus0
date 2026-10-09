@@ -35,6 +35,8 @@
 
 - [**CVE-2026-93747**](https://www.cve.org/CVERecord?id=CVE-2026-93747) (CVSS 6.4, Medium): Authenticated Stored XSS. [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-93747)
 
+- [**CVE-2026-93883**](https://www.cve.org/CVERecord?id=CVE-2026-93883) (CVSS 6.4, Medium): Authenticated Stored XSS. [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-93883)
+
 - [**CVE-2026-11359**](https://www.cve.org/CVERecord?id=CVE-2026-11359) (CVSS 4.3, Medium): Missing Authorization. [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-11359)
 
 ---
