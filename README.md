@@ -15,6 +15,8 @@
 
 - [**CVE-2026-93778**](https://www.cve.org/CVERecord?id=CVE-2026-93778) (CVSS 7.2, High): Unauthenticated stored XSS. [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-93778)
 
+- [**CVE-2026-93775**](https://www.cve.org/CVERecord?id=CVE-2026-93775) (CVSS 7.2, High): Unauthenticated stored XSS. [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-93775)
+
 - [**CVE-2026-97336**](https://www.cve.org/CVERecord?id=CVE-2026-97336) (CVSS 7.2, High): Unauthenticated stored XSS. [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-97336)
 
 - [**CVE-2026-16145**](https://www.cve.org/CVERecord?id=CVE-2026-16145) (CVSS 7.2, High): Unauthenticated stored XSS. [Official Link](https://www.cve.org/CVERecord?id=CVE-2026-16145)
